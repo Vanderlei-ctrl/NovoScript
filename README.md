@@ -1,0 +1,2 @@
+# NovoScript
+Aprendendo Shell 
